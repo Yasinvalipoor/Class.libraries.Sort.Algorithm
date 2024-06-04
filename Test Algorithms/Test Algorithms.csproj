@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BubbleSort\Bubble.Implementations.csproj" />
+    <ProjectReference Include="..\Bubble.Implementations\Bubble.Implementations.csproj" />
     <ProjectReference Include="..\Heap.Implementations\Heap.Implementations.csproj" />
     <ProjectReference Include="..\Insertion.Implementations\Insertion.Implementations.csproj" />
     <ProjectReference Include="..\InterfaceSort\InterfaceSort.csproj" />
